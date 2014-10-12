@@ -1,0 +1,9 @@
+FILE QUARANTINED
+
+An AntiVirus sofware removed a file since it is on a list of file types that is considered possibly harmful.
+If you need this file and if you are certain the file poses no threat, please contact imec's helpdesk to retrieve it.
+
+Additional information:
+Product: Microsoft Forefront Protection for Exchange Server
+File name: "winmail.dat->tlm_course.tgz->->tlm_course/doc/doxygen/html/doxygen.css"
+Server Name: "EXHC1"
